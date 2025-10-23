@@ -1,0 +1,32 @@
+{
+  "library_comparison": {
+    "libraries": [
+      {
+        "name": "Crosland Tower",
+        "overall_rating": 4.3,
+        "study_seats": 1200,
+        "weekly_hours": 168
+      },
+      {
+        "name": "Prive Gilbert Library",
+        "overall_rating": 4.6,
+        "study_seats": 1500,
+        "weekly_hours": 110
+      }
+    ],
+    "comparison_metrics": {
+      "hours_accessible": {
+        "Crosland Tower": 168,
+        "Prive Gilbert Library": 110
+      },
+      "study_seat_availability": {
+        "Crosland Tower": 1200,
+        "Prive Gilbert Library": 1500
+      },
+      "wifi_speed_mbps": {
+        "Crosland Tower": 95,
+        "Prive Gilbert Library": 112
+      }
+    }
+  }
+}
